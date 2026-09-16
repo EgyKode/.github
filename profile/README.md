@@ -122,15 +122,6 @@ EgyKode shares practical engineering work through:
 Our goal is to connect concepts to working systems that people can understand,
 run, and improve.
 
-## Featured Repositories
-
-- [EgyKode Academy](https://github.com/EgyKode/EgyKode-Academy)
-- [EgyKode Pilot](https://github.com/EgyKode/EgyKode-Pilot)
-- [EgyKode Pilot Web](https://github.com/EgyKode/EgyKode-Pilot-Web)
-- [EgyKode Commercial Web](https://github.com/EgyKode/EgyKode-Commercial-Web)
-- [EgyKode Lab](https://github.com/EgyKode/EgyKode-lab)
-- [EgyKode Scenarios](https://github.com/EgyKode/EgyKode-scenarios)
-
 ## Connect
 
 - Website: [egykode.com](https://egykode.com)
